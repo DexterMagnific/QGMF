@@ -1,0 +1,41 @@
+# Compiled Object files
+*.slo
+*.lo
+*.o
+build/
+
+# Compiled Dynamic libraries
+*.so
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+
+# Qt Meta Object files/Qt Build System files
+*.moc
+moc_*
+qrc_*
+Makefile
+ui_*
+
+# KDevelop files
+*kdev*
+
+# Qt Creator files
+.qmake.stash
+*.pro.user
+
+# doc generated files
+doc/build
+
+# Debian package build artifacts
+.pc/
+*/.debhelper/
+debhelper-build-stamp
+debian/tmp/
+
+# Misc
+*~
+*.backup
+*.log

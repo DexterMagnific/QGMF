@@ -1,0 +1,12 @@
+#ifndef QGMFGRAPHICS_GLOBAL_H
+#define QGMFGRAPHICS_GLOBAL_H
+
+#include <QtCore/qglobal.h>
+
+#if defined(QGMFGRAPHICS_LIBRARY)
+#  define QGMFGRAPHICS_PUBLIC Q_DECL_EXPORT
+#else
+#  define QGMFGRAPHICS_PUBLIC Q_DECL_IMPORT
+#endif
+
+#endif // QGMFGRAPHICS_GLOBAL_H

@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="111.39mm"
+   height="55.827496mm"
+   viewBox="0 0 111.39 55.827496"
+   version="1.1"
+   id="svg42903"
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
+   sodipodi:docname="stdmodel.svg"
+   inkscape:export-filename="/home/slankri/QGMF/doc/source/images/stdmodel.png"
+   inkscape:export-xdpi="153.60001"
+   inkscape:export-ydpi="153.60001"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview42905"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:zoom="2.1039601"
+     inkscape:cx="198.43532"
+     inkscape:cy="67.254127"
+     inkscape:window-width="1920"
+     inkscape:window-height="993"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1">
+    <inkscape:grid
+       type="xygrid"
+       id="grid43031"
+       originx="-30.294584"
+       originy="-42.200833" />
+  </sodipodi:namedview>
+  <defs
+     id="defs42900" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-30.294584,-42.200833)">
+    <rect
+       style="fill:#e3dedb;stroke:#000080;stroke-width:0.265;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stop-color:#000000"
+       id="rect3446-9"
+       width="111.12499"
+       height="50.270824"
+       x="30.427088"
+       y="47.625004" />
+    <rect
+       style="fill:#d7eef4;stroke:#000080;stroke-width:0.265;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stop-color:#000000"
+       id="rect3446"
+       width="30.427082"
+       height="21.166666"
+       x="35.71875"
+       y="59.531254" />
+    <path
+       style="fill:none;stroke:#165016;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 68.791667,63.5 C 86.756343,64.44679 84.025588,80.38329 103.1875,79.375"
+       id="path3483"
+       sodipodi:nodetypes="cc" />
+    <rect
+       style="fill:#d7eef4;stroke:#000080;stroke-width:0.264999;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stop-color:#000000"
+       id="rect3682"
+       width="18.520832"
+       height="5.2916665"
+       x="35.71875"
+       y="54.239586" />
+    <text
+       xml:space="preserve"
+       style="font-size:3.70417px;line-height:1.25;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono';letter-spacing:0px;word-spacing:0px;stroke-width:0.264583"
+       x="37.090622"
+       y="58.266346"
+       id="text11882-7"><tspan
+         sodipodi:role="line"
+         id="tspan11880-3"
+         style="stroke-width:0.264583"
+         x="37.090622"
+         y="58.266346">stdNode</tspan></text>
+    <rect
+       style="fill:#e3dedb;fill-opacity:1;stroke:#000080;stroke-width:0.264999;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stop-color:#000000"
+       id="rect3682-2"
+       width="21.166666"
+       height="5.2916665"
+       x="30.427084"
+       y="42.333332" />
+    <text
+       xml:space="preserve"
+       style="font-size:3.70417px;line-height:1.25;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono';letter-spacing:0px;word-spacing:0px;stroke-width:0.264583"
+       x="32.12891"
+       y="46.001068"
+       id="text11882"><tspan
+         sodipodi:role="line"
+         id="tspan11880"
+         style="stroke-width:0.264583"
+         x="32.12891"
+         y="46.001068">StdGraph</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.70417px;line-height:1.25;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono';letter-spacing:0px;word-spacing:0px;stroke-width:0.264583"
+       id="text11882-0"
+       y="68.077393"
+       x="82.664368"><tspan
+         sodipodi:role="line"
+         id="tspan11880-6"
+         style="stroke-width:0.264583"
+         x="82.664368"
+         y="68.077393">stdEdge</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.70417px;line-height:1.25;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono';letter-spacing:0px;word-spacing:0px;stroke-width:0.264583"
+       x="45.033516"
+       y="68.674545"
+       id="text11882-2"><tspan
+         sodipodi:role="line"
+         id="tspan11880-61"
+         style="stroke-width:0.264583"
+         x="45.033516"
+         y="68.674545">stdOutput</tspan></text>
+    <rect
+       style="fill:#d7eef4;stroke:#000080;stroke-width:0.265;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stop-color:#000000"
+       id="rect3446-6"
+       width="30.427082"
+       height="21.166666"
+       x="105.83334"
+       y="70.114594" />
+    <rect
+       style="fill:#d7eef4;stroke:#000080;stroke-width:0.264999;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stop-color:#000000"
+       id="rect3682-1"
+       width="18.520832"
+       height="5.2916665"
+       x="105.83334"
+       y="64.822922" />
+    <text
+       xml:space="preserve"
+       style="font-size:3.70417px;line-height:1.25;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono';letter-spacing:0px;word-spacing:0px;stroke-width:0.264583"
+       x="107.20521"
+       y="68.849686"
+       id="text11882-7-2"><tspan
+         sodipodi:role="line"
+         id="tspan11880-3-9"
+         style="stroke-width:0.264583"
+         x="107.20521"
+         y="68.849686">stdNode</tspan></text>
+    <rect
+       style="fill:#eed7f4;fill-opacity:1;stroke:#672178;stroke-width:0.264583;stroke-linecap:round;stop-color:#000000"
+       id="rect44484"
+       width="5.2916665"
+       height="2.6458333"
+       x="63.500004"
+       y="62.177086" />
+    <rect
+       style="fill:#ffe6d5;fill-opacity:1;stroke:#803300;stroke-width:0.264583;stroke-linecap:round;stop-color:#000000"
+       id="rect44484-4"
+       width="5.2916665"
+       height="2.6458333"
+       x="103.1875"
+       y="78.052078" />
+    <text
+       xml:space="preserve"
+       style="font-size:3.70417px;line-height:1.25;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono';letter-spacing:0px;word-spacing:0px;stroke-width:0.264583"
+       x="106.60914"
+       y="85.032135"
+       id="text11882-2-7"><tspan
+         sodipodi:role="line"
+         id="tspan11880-61-8"
+         style="stroke-width:0.264583"
+         x="106.60914"
+         y="85.032135">stdInput</tspan></text>
+  </g>
+</svg>
